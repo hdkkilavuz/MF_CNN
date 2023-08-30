@@ -10,9 +10,10 @@ In this work, we were inspired by a previous study* and we propose to use a Conv
 
 ## Data
 
-<img width="361" alt="image" src="https://github.com/hdtemurtas/MF_CNN/assets/114245127/9899e634-ffe5-496e-b782-a4fc0dfcdcbd">
+<img width="361" alt="image" src="https://github.com/hdtemurtas/MF_CNN/assets/114245127/9899e634-ffe5-496e-b782-a4fc0dfcdcbd"> 
 
-Data is used from https://github.com/fsahli/AtrialMFclass.
+Data is used from "https://github.com/fsahli/AtrialMFclass" which is basically 3 coordinates of a heart.
+
 The geometry and the results of the 1800 high-fidelity simulations are in the data folder in .npz files.
 
 ## References
