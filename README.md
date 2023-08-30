@@ -12,9 +12,9 @@ In this work, we were inspired by a previous study* and we propose to use a Conv
 
 <img width="361" alt="image" src="https://github.com/hdtemurtas/MF_CNN/assets/114245127/9899e634-ffe5-496e-b782-a4fc0dfcdcbd"> 
 
-Data is used from "https://github.com/fsahli/AtrialMFclass" which is basically 3 coordinates of a heart.
+Data is used from "https://github.com/fsahli/AtrialMFclass".
+It is in .obj file format that represents the 3D geometry of a heart and then it is transformed into .npz files.
 
-The geometry and the results of the 1800 high-fidelity simulations are in the data folder in .npz files.
 
 ## References
 *L. Gander, S. Pezzuto, A. Gharaviri, R. Krause, P. Perdikaris, F. Sahli. Fast characterization of inducible regions of atrial fibrillation models with multi-fidelity Gaussian process classification. Frontiers in Physiology (2022): doi:10.3389/fphys.2022.757159
